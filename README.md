@@ -5,10 +5,7 @@ Title: Smart Artificial Summarizer
 
 Link: https://smart-summarizer-bot.netlify.app/
 
-## Team Who developed
-1) Shailendra Mahadule
-2) Aaditya Patil
-3) Rakesh Dharne
+
 
 ### Figma design
 https://www.figma.com/design/atTSz4Fb0KnBTa3vF5hRXJ/Text-summarizer?node-id=0-1
