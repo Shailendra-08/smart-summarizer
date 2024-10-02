@@ -4,7 +4,7 @@
 Title: Smart Artificial Summarizer
 
 Link: https://smart-summarizer-bot.netlify.app/
-
+Youtube: https://youtu.be/6zSJaKwnMfI?si=RzX1OhRXoiivNGY9
 
 
 ### Figma design
